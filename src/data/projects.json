@@ -1,0 +1,26 @@
+[
+  {
+    "title": "BMI Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to familiarize myself with React",
+    "skills": ["React"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "SBA OJT Web Portal",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for our Capstone Project",
+    "skills": ["Laravel", "PHP", "MySql", "HTML", "CSS", "JavaScript"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Contract Team Management",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn Blockchain",
+    "skills": ["SOL", "JavaScript"],
+    "demo": "#",
+    "source": "#"
+  }
+]
